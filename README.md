@@ -1,4 +1,4 @@
-# Towards and Adversarially Robust Normalization Approach
+# Towards an Adversarially Robust Normalization Approach
 This is code of the paper "Towards an adversarially Robust Normalization Approach" submitted to ICML.
 ## Prerequisites
 - [PyTorch 0.4.0+](https://pytorch.org/)
