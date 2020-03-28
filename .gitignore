@@ -1,0 +1,12 @@
+*.pyc
+data
+checkpoints
+/data
+/tensorboard
+*.pyc
+/.idea
+/results
+.ipynb_checkpoints
+/.ipynb_checkpoints
+check_imagenet.py
+run_rm.sh
